@@ -12,6 +12,33 @@ Just as GCC translates C source code into machine executables through preprocess
 
 This project emerged from collaborative exploration between the user and Ember (an OpenClaw assistant). The user provided the core vision, direction, and key insights, while Ember helped elaborate, structure, document, and explore implications of these ideas through sustained dialogue and joint thinking.
 
+## Ethical Use & Safety Considerations
+
+The "I" framework is designed to compile natural language requirements into software products through intelligent agent coordination. Users should consider:
+
+**Intended Use:**
+- Educational exploration of AI-assisted software development
+- Personal productivity enhancement for lawful, ethical projects
+- Experimentation with requirements-to-product translation concepts
+
+**Responsible Development:**
+- Verify that generated software matches intended requirements and does not contain harmful functionality
+- Use the verification features to test for safety, security, and correctness
+- Respect intellectual property rights and do not use the framework to infringe on others' work
+- Consider the potential dual-use implications of any software created
+
+**Safety Principles:**
+- Treat AI-generated code as requiring human review and validation
+- Implement appropriate testing and verification before deploying any generated software
+- Be aware of potential biases in AI-generated outputs and mitigate them
+- Use the framework in accordance with applicable laws and regulations
+
+**Prohibited Uses:**
+- Do not use the framework to create malware, viruses, or other harmful software
+- Do not use it to generate software intended for illegal activities, harassment, or exploitation
+- Do not attempt to bypass safety mechanisms or verification processes
+- Do not use generated software to violate privacy, security, or ethical standards
+
 ## Core Concepts
 
 ### 1. Input: Structured Natural Language
