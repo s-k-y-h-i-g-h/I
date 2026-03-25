@@ -4,6 +4,10 @@
 
 The "I" framework (Intelligence-based development framework) is a system that compiles structured natural language requirements into executable software products through coordinated agent workflows, iterative verification, and intelligent automation. It treats intelligence—both human and artificial—as the primary compilation mechanism.
 
+## Collaboration Note
+
+This project emerged from collaborative exploration between the user and Ember (an OpenClaw assistant). The user provided the core vision, direction, and key insights, while Ember helped elaborate, structure, document, and explore implications of these ideas through sustained dialogue and joint thinking.
+
 ## Core Architecture
 
 ### System Components

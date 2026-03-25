@@ -8,6 +8,10 @@ A framework that compiles natural language requirements into executable products
 
 Just as GCC translates C source code into machine executables through preprocessing, compilation, assembly, and linking, "I" translates requirement documents into products through stages of clarification, agent-based development, verification, iteration, and packaging.
 
+## Collaboration Note
+
+This project emerged from collaborative exploration between the user and Ember (an OpenClaw assistant). The user provided the core vision, direction, and key insights, while Ember helped elaborate, structure, document, and explore implications of these ideas through sustained dialogue and joint thinking.
+
 ## Core Concepts
 
 ### 1. Input: Structured Natural Language
